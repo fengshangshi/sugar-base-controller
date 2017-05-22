@@ -1,0 +1,11 @@
+{
+  "name": "sugar-base-controller",
+  "version": "0.0.1",
+  "description": "sugar2.0框架的基础controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ss.feng",
+  "license": "ISC"
+}
